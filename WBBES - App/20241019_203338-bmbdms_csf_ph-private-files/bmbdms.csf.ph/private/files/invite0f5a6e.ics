@@ -1,0 +1,349 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Manila
+X-LIC-LOCATION:Asia/Manila
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:PST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Manila:20240530T070000
+DTEND;TZID=Asia/Manila:20240530T170000
+DTSTAMP:20240528T052325Z
+ORGANIZER;CN=Seth Kendall Munar:mailto:seth.munar@globe.com.ph
+UID:65hjgp1l60pmcb9p6grmcb9k6cqm6b9p64s36b9nc4r6cp1iclgjac3174@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Allan Valdes-Tan;X-NUM-GUESTS=0:mailto:marie.tan@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Patty Velante;X-NUM-GUESTS=0:mailto:patrice.velante@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Kristina Tayag;X-NUM-GUESTS=0:mailto:mkvtayag@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Seth Kendall Munar;X-NUM-GUESTS=0:mailto:seth.munar@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Leobhel Cueto;X-NUM-GUESTS=0:mailto:macueto@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;RSVP=TRUE
+ ;CN=Nica Pormilda;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Declined because I&rsq
+ uo\;m in focus time":mailto:mrpormilda@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Daniel Antonio Tan;X-NUM-GUESTS=0:mailto:dtan@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Andre Viernes;X-NUM-GUESTS=0:mailto:andre.viernes@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Joseph Charles Santos;X-NUM-GUESTS=0:mailto:jrsantos@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Nes Magayano;X-NUM-GUESTS=0:mailto:nsmagayano@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;RSVP=TRUE
+ ;CN=Erix Marquez;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Declined because I&rsqu
+ o\;m in focus time":mailto:roderick.marquez@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;RSVP=TRUE
+ ;CN=Sheila San Miguel;X-NUM-GUESTS=0;X-RESPONSE-COMMENT="Declined because I
+ &rsquo\;m in focus time :)":mailto:sheila.sanmiguel@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Nichelle Santos;X-NUM-GUESTS=0:mailto:elijah.santos@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Raquel Prado;X-NUM-GUESTS=0:mailto:raquel.prado@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Irene Manalang;X-NUM-GUESTS=0:mailto:ismanalang@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ECE CEPE;X-NUM-GUESTS=0:mailto:isg-ceso-ece-cepe@globe.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Noel Anthony Paulo Navarrete;X-NUM-GUESTS=0:mailto:nenavarrete@glob
+ e.com.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=angelesclyde100@gmail.com;X-NUM-GUESTS=0:mailto:angelesclyde100@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ijoacquin@gmail.com;X-NUM-GUESTS=0:mailto:ijoacquin@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=einstein.d.yong@gmail.com;X-NUM-GUESTS=0:mailto:einstein.d.yong@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kbicuspit@gmail.com;X-NUM-GUESTS=0:mailto:kbicuspit@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rwlgardon@gmail.com;X-NUM-GUESTS=0:mailto:rwlgardon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=arjayfortuno85@gmail.com;X-NUM-GUESTS=0:mailto:arjayfortuno85@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gbresuello@gmail.com;X-NUM-GUESTS=0:mailto:gbresuello@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=velascobiatrizhenicolle@gmail.com;X-NUM-GUESTS=0:mailto:velascobiat
+ rizhenicolle@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=johnjeruel@gmail.com;X-NUM-GUESTS=0:mailto:johnjeruel@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aliyahkirstielopez@gmail.com;X-NUM-GUESTS=0:mailto:aliyahkirstielop
+ ez@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sharlenetanbascon@gmail.com;X-NUM-GUESTS=0:mailto:sharlenetanbascon
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=avonncnova54@gmail.com;X-NUM-GUESTS=0:mailto:avonncnova54@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aadvincula@feu.edu.ph;X-NUM-GUESTS=0:mailto:aadvincula@feu.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=clxrkkyle@gmail.com;X-NUM-GUESTS=0:mailto:clxrkkyle@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=chasevillarroel@gmail.com;X-NUM-GUESTS=0:mailto:chasevillarroel@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dominic.esplana.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:dominic.espla
+ na.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=apulongbarit21@gmail.com;X-NUM-GUESTS=0:mailto:apulongbarit21@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kylenenaiomiraquinio@gmail.com;X-NUM-GUESTS=0:mailto:kylenenaiomira
+ quinio@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maryabigail.aldave.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:maryabigai
+ l.aldave.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rslayno@gmail.com;X-NUM-GUESTS=0:mailto:rslayno@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=justinlorence12@gmail.com;X-NUM-GUESTS=0:mailto:justinlorence12@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lhaclydeivangarcia@gmail.com;X-NUM-GUESTS=0:mailto:lhaclydeivangarc
+ ia@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=carljacob.mateo.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:carljacob.mateo.c
+ ics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jessy.mapanao03@gmail.com;X-NUM-GUESTS=0:mailto:jessy.mapanao03@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gonzalesjirodwight@gmail.com;X-NUM-GUESTS=0:mailto:gonzalesjirodwig
+ ht@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=grldcstlln@icloud.com;X-NUM-GUESTS=0:mailto:grldcstlln@icloud.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=paulcarloslima@gmail.com;X-NUM-GUESTS=0:mailto:paulcarloslima@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=chynnvldz@gmail.com;X-NUM-GUESTS=0:mailto:chynnvldz@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=allaintabudlo@gmail.com;X-NUM-GUESTS=0:mailto:allaintabudlo@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=leferrera@letran-calamba.edu.ph;X-NUM-GUESTS=0:mailto:leferrera@let
+ ran-calamba.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=daskeokristine02@gmail.com;X-NUM-GUESTS=0:mailto:daskeokristine02@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=almoitemarty@gmail.com;X-NUM-GUESTS=0:mailto:almoitemarty@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tobeyaustria88@gmail.com;X-NUM-GUESTS=0:mailto:tobeyaustria88@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=darrenderige12@gmail.com;X-NUM-GUESTS=0:mailto:darrenderige12@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=celinerascano@gmail.com;X-NUM-GUESTS=0:mailto:celinerascano@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=joshua.madrid.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:joshua.madrid.c
+ ics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rich.custodio35@gmail.com;X-NUM-GUESTS=0:mailto:rich.custodio35@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=duanemahinay@gmail.com;X-NUM-GUESTS=0:mailto:duanemahinay@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alycia.artes195@gmail.com;X-NUM-GUESTS=0:mailto:alycia.artes195@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=felixgalaites@gmail.com;X-NUM-GUESTS=0:mailto:felixgalaites@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=trixie.capo@gmail.com;X-NUM-GUESTS=0:mailto:trixie.capo@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gabriel.mallari.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:gabriel.malla
+ ri.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=erinblorzano@gmail.com;X-NUM-GUESTS=0:mailto:erinblorzano@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=blixdforyasen@gmail.com;X-NUM-GUESTS=0:mailto:blixdforyasen@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=seanirvin.hernandez.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:seanirvin
+ .hernandez.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dyl.mags03@gmail.com;X-NUM-GUESTS=0:mailto:dyl.mags03@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gdocfemia@letran-calamba.edu.ph;X-NUM-GUESTS=0:mailto:gdocfemia@let
+ ran-calamba.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=santos_3200722@letran-calamba.edu.ph;X-NUM-GUESTS=0:mailto:santos_3
+ 200722@letran-calamba.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jordandacanay4@gmail.com;X-NUM-GUESTS=0:mailto:jordandacanay4@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nathanielmasotes3@gmail.com;X-NUM-GUESTS=0:mailto:nathanielmasotes3
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=todin.castaneda@gmail.com;X-NUM-GUESTS=0:mailto:todin.castaneda@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jhericomedina213@gmail.com;X-NUM-GUESTS=0:mailto:jhericomedina213@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jicslenard08@gmail.com;X-NUM-GUESTS=0:mailto:jicslenard08@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rienrodrigo.buendia.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:rienrodri
+ go.buendia.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=archogjj@gmail.com;X-NUM-GUESTS=0:mailto:archogjj@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=akirafidelino@gmail.com;X-NUM-GUESTS=0:mailto:akirafidelino@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=neoaurellano@gmail.com;X-NUM-GUESTS=0:mailto:neoaurellano@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=haileebobis@gmail.com;X-NUM-GUESTS=0:mailto:haileebobis@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ddangat.fb@gmail.com;X-NUM-GUESTS=0:mailto:ddangat.fb@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=glenngopez@gmail.com;X-NUM-GUESTS=0:mailto:glenngopez@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=olympia.francheska.2@gmail.com;X-NUM-GUESTS=0:mailto:olympia.franch
+ eska.2@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=12ptolemy.modinaalvinken@gmail.com;X-NUM-GUESTS=0:mailto:12ptolemy.
+ modinaalvinken@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=bartolome_3200503@letran-calamba.edu.ph;X-NUM-GUESTS=0:mailto:barto
+ lome_3200503@letran-calamba.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jdmntec@gmail.com;X-NUM-GUESTS=0:mailto:jdmntec@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=m.algabre2003@gmail.com;X-NUM-GUESTS=0:mailto:m.algabre2003@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maryabigail.cruz29@gmail.com;X-NUM-GUESTS=0:mailto:maryabigail.cruz
+ 29@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zionjohnyousef.ramilo@gmail.com;X-NUM-GUESTS=0:mailto:zionjohnyouse
+ f.ramilo@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=elishaamon.garma.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:elishaamon.g
+ arma.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mora_3200585@letran-calamba.edu.ph;X-NUM-GUESTS=0:mailto:mora_32005
+ 85@letran-calamba.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=comarjorie404@gmail.com;X-NUM-GUESTS=0:mailto:comarjorie404@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=john.andrew.gacho@gmail.com;X-NUM-GUESTS=0:mailto:john.andrew.gacho
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=andreimcpe123@gmail.com;X-NUM-GUESTS=0:mailto:andreimcpe123@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jesideno@ust.edu.ph;X-NUM-GUESTS=0:mailto:jesideno@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=carlitosarana00@gmail.com;X-NUM-GUESTS=0:mailto:carlitosarana00@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rachelleanne.valenzuela.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:rache
+ lleanne.valenzuela.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=avperol@ust.edu.ph;X-NUM-GUESTS=0:mailto:avperol@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mostafakhafaji2004@gmail.com;X-NUM-GUESTS=0:mailto:mostafakhafaji20
+ 04@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lancedoli170@gmail.com;X-NUM-GUESTS=0:mailto:lancedoli170@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sarto.prisilla@gmail.com;X-NUM-GUESTS=0:mailto:sarto.prisilla@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=xeonbros@gmail.com;X-NUM-GUESTS=0:mailto:xeonbros@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jzranilykoev.navarro.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:jzranily
+ koev.navarro.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lancepaolomenguito@gmail.com;X-NUM-GUESTS=0:mailto:lancepaolomengui
+ to@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wengw555@gmail.com;X-NUM-GUESTS=0:mailto:wengw555@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jazzennicolo.reyes.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:jazzennico
+ lo.reyes.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nuttzprz@gmail.com;X-NUM-GUESTS=0:mailto:nuttzprz@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jaudianmayo@gmail.com;X-NUM-GUESTS=0:mailto:jaudianmayo@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=janadrian.sideno.cics@ust.edu.ph;X-NUM-GUESTS=0:mailto:janadrian.si
+ deno.cics@ust.edu.ph
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=verum0319@gmail.com;X-NUM-GUESTS=0:mailto:verum0319@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nellyabordo.100302@gmail.com;X-NUM-GUESTS=0:mailto:nellyabordo.1003
+ 02@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=berrylium.44@gmail.com;X-NUM-GUESTS=0:mailto:berrylium.44@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=iansmojica@gmail.com;X-NUM-GUESTS=0:mailto:iansmojica@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=emvalenciaa@gmail.com;X-NUM-GUESTS=0:mailto:emvalenciaa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pixieworksphp@gmail.com;X-NUM-GUESTS=0:mailto:pixieworksphp@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mcagbanlog2002@gmail.com;X-NUM-GUESTS=0:mailto:mcagbanlog2002@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=juarbal.sheenagem@gmail.com;X-NUM-GUESTS=0:mailto:juarbal.sheenagem
+ @gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zso-khdd-izm
+X-MICROSOFT-CDO-OWNERAPPTID:-1372478714
+CREATED:20240528T025319Z
+DESCRIPTION:<b>Before the Start of the Event</b><br><ul><li>Register at the
+  Registration Table<br></li><li>Receive your food stubs and keep on you unt
+ il the organizers ask for a specific stub. (Disclaimer: The organizers are 
+ not responsible if after receiving the stub and the participant loses the s
+ tubs)</li><li>Find your seats<br></li><li>Go around the booths<br></li><li>
+ Ensure you have GCash app installed for any possible purchases</li></ul> <b
+ r><b>During the Event</b><br><ul><li>Listen!<br></li><li>Participate in any
+  Q&amp\;As for any additional questions to any topics.<br></li><li>Use the 
+ Event Hashtags below in SOCMED posts<br></li><li>Ask any questions you migh
+ t have<br></li><li>Stay in your seats (booths are closed)<br></li><li>Stay 
+ within the area (as there are other Globe activities happening outside the 
+ area in parallel)</li></ul> <br><b>After the Event</b><br><ul><li>Stay safe
+ !</li><li>If you have any pictures to share with us\, feel free to publicly
+  post it in your social media posts and stories. Tag us in your stories!</l
+ i></ul><br><b><br></b><b>Event Hashtag: </b><br><b>#GlobeCampusConnect2024<
+ /b><br><b>#AtinAngMundo #GlobeCloudStories2024</b><br><br><ul><li>Share you
+ r thoughts and highlights from the talk.<br></li><li>Connect with fellow pa
+ rticipants and continue the discussion.<br></li><li>Help spread the word on
+  Cloud and reach a larger audience.<br></li></ul>Tag your posts on Twitter/
+ X\, LinkedIn\, Instagram\, FB\, or any other platform you love. Let’s get t
+ his conversation trending and make an impact together!\n\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoi
+ n with Google Meet: https://meet.google.com/zso-khdd-izm\nOr dial: (US) +1 
+ 470-745-0586 PIN: 249222940#\nMore phone numbers: https://tel.meet/zso-khdd
+ -izm?pin=4302416397953&hs=7\n\nLearn more about Meet at: https://support.go
+ ogle.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20240528T052312Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Campus Connect 2024
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

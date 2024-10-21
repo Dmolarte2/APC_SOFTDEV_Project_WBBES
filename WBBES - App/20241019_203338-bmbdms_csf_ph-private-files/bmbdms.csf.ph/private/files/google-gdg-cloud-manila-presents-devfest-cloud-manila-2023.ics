@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bevy Labs//Bevy//
+METHOD:REQUEST
+BEGIN:VEVENT
+SUMMARY:DevFest Cloud Manila 2023
+DTSTART;VALUE=DATE-TIME:20231007T050000Z
+DTEND;VALUE=DATE-TIME:20231007T090000Z
+DTSTAMP;VALUE=DATE-TIME:20230915T183032Z
+UID:google/57519/Event/Bevy
+SEQUENCE:1694802632
+ATTENDEE;CN="- -";PARTSTAT=ACCEPTED;ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:
+ chynnvldz@gmail.com
+DESCRIPTION:DevFests are local tech conferences hosted by Google Developer
+  Groups (GDGs) around the world. They feature talks\, hands-on demos\, wor
+ kshops\, and codelabs on the latest Google tech. In 2022\, there were 550+
+  DevFests\, helping 320k+ developers. DevFest is the premiere local event 
+ for developers to learn about Google’s latest technologies from Googlers
+ \, Google Developer Experts and speakers from the 
+LOCATION:Asia Pacific College\, 3 Humabon\, Makati\, 1232
+ORGANIZER;CN="GDG Event Platform":MAILTO:noreply@gdg.community.dev
+PRIORITY:5
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
